@@ -38,8 +38,8 @@ The neural network model consists of 75  neurons distributed across hidden_nodes
 # Achievement of Target Model Performance:
 
 The model was able to achieve - loss: 0.5510 - accuracy: 0.7353 - 318ms/epoch - 1ms/step Loss: 0.5509999394416809, Accuracy: 0.735276997089386 close to the target performance, indicating its effectiveness in classification tasks.
-Steps to Increase Model Performance:
 
+# Steps to Increase Model Performance:
 To improve model performance, other various techniques could have been employed. These include hyperparameter tuning, feature engineering, and data augmentation.
 
 # Summary:
